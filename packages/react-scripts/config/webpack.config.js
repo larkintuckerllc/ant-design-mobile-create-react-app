@@ -408,6 +408,8 @@ module.exports = function(webpackEnv) {
                       libraryName: 'antd',
                       style: true,
                     },
+                  ],
+                  [
                     'import',
                     {
                       libraryName: 'antd-mobile',
