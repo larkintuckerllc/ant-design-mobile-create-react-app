@@ -408,6 +408,7 @@ module.exports = function(webpackEnv) {
                       libraryName: 'antd',
                       style: true,
                     },
+                    'antd',
                   ],
                   [
                     'import',
@@ -415,6 +416,7 @@ module.exports = function(webpackEnv) {
                       libraryName: 'antd-mobile',
                       style: true,
                     },
+                    'antd-mobile',
                   ],
                   // ant-design-mobile-larkintuckerllc-react-scripts end
                   [
