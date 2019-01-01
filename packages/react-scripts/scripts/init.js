@@ -119,7 +119,7 @@ module.exports = function(
     test: 'react-scripts test',
     eject: 'react-scripts eject',
     // ant-design-mobile-larkintuckerllc-react-scripts start
-    analyze: 'ANT_DESIGN_LARKIN_TUCKER_LLC_ANALYZE=true react-scripts build',
+    analyze: 'ANT_DESIGN_MOBILE_LARKIN_TUCKER_LLC_ANALYZE=true react-scripts build',
     // ant-design-mobile-larkintuckerllc-react-scripts end
   };
 

@@ -715,7 +715,7 @@ module.exports = function(webpackEnv) {
           formatter: typescriptFormatter,
         }),
       // ant-design-mobile-larkintuckerllc-react-scripts start
-      process.env.ANT_DESIGN_LARKIN_TUCKER_LLC_ANALYZE &&
+      process.env.ANT_DESIGN_MOBILE_LARKIN_TUCKER_LLC_ANALYZE &&
         new antDesignMobileLarkinTuckerLLCBundleAnalyzerPlugin(),
       // ant-design-mobile-larkintuckerllc-react-scripts end
     ].filter(Boolean),
