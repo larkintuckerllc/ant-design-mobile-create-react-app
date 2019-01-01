@@ -86,6 +86,9 @@ function antDesignMobileLarkinTuckerLLCDirections() {
   console.log(chalk.cyan(`  yarn add --dev less`));
   console.log('    Adds support for Less.');
   console.log();
+  console.log(chalk.cyan(`  yarn add antd`));
+  console.log('    Adds support for Ant Design.');
+  console.log();
   console.log(chalk.cyan(`  yarn add antd-mobile`));
   console.log('    Adds support for Ant Design Mobile.');
   console.log();

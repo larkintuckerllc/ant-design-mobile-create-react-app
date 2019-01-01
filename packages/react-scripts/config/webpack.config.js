@@ -405,6 +405,11 @@ module.exports = function(webpackEnv) {
                   [
                     'import',
                     {
+                      libraryName: 'antd',
+                      style: true,
+                    },
+                    'import',
+                    {
                       libraryName: 'antd-mobile',
                       style: true,
                     },
